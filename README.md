@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nags22
-- 👀 I’m interested in Blockchain Development 
-- 🌱 I’m currently learning Solidity 
-- 💞️ I’m looking to collaborate with projects which involves smart contracts 
+- 👀 I’m interested in Blockchain Development and SAP Hana Apps
+- 🌱 I’m currently developing SAP UI5 Apps
+- 💞️ I’m looking to collaborate with projects which involves SAP UI5 or Blockchain.
 - 📫 Contact me @ +919182850862 or nagarapunagaraju08@gmail.com
 
 <!---
